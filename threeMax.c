@@ -22,7 +22,7 @@ int threeMax (int a, int b, int c)
 
 void main ()
 {
-	int a = 100;
+	int a = 10;
 	int c = 10000;
 	int b = 3;
 
